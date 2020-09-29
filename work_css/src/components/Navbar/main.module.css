@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  background-color: aqua;
+  height: 10vh;
+}
+.logo {
+  display: flex;
+  padding-right: 5vw;
+  padding-left: 5vw;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background: rgb(255, 251, 6);
+}
+
+.signIn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: 2vh;
+}
